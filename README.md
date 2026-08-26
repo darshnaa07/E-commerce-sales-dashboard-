@@ -80,7 +80,7 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard]()
+![E-Commerce Sales Dashboard](IMG_20260826_155712.jpg)
 
 ## 📊 Tools Used
 
