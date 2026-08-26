@@ -61,6 +61,26 @@ The dashboard includes:
 - Sales by Category
 - Sales by Product
 - Net Sales over Time
+## 📈 Dashboard Insights
+
+The dashboard includes:
+
+- Total Orders
+- Total Quantity Sold
+- Gross Sales
+- Total Discounts
+- Net Sales
+- Average Order Value
+- Highest Sale
+- Lowest Sale
+- Sales by Salesperson
+- Sales by Category
+- Sales by Product
+- Net Sales over Time
+
+## 📸 Dashboard Preview
+
+![E-Commerce Sales Dashboard]()
 
 ## 📊 Tools Used
 
